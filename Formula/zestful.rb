@@ -1,9 +1,9 @@
 class Zestful < Formula
   desc "CLI for Zestful — AI agent notifications"
   homepage "https://zestful.dev"
-  url "https://github.com/caladriuslogic/zestful/releases/download/v1.0.1/zestful"
-  version "1.0.1"
-  sha256 "0d6dfec1edb0837ead5c672c7228239b318532966da4aca8bfd3f6ee351e8517"
+  url "https://github.com/caladriuslogic/zestful/releases/download/v2.0.0/zestful"
+  version "2.0.0"
+  sha256 "eef2d11437e5fcaebe2ba05c09e4cb6352324051b6eb2926678325c5430d397a"
   license "MIT"
 
   def install
