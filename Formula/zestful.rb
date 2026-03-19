@@ -3,7 +3,7 @@ class Zestful < Formula
   homepage "https://zestful.dev"
   url "https://github.com/caladriuslogic/zestful/releases/download/v3.0.0/zestful"
   version "3.0.0"
-  sha256 "86c20dc8918b366f2b38b6e10590e43db3fa2b2814f7522b5305f059ae952f87"
+  sha256 "182bf1913d2ee08ca6a22400419e972f6e5434f61bd0ab0baf3c02a06cf6627a"
   license "MIT"
 
   def install
