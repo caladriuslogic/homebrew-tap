@@ -5,7 +5,7 @@ Homebrew formulae for [Zestful](https://zestful.dev).
 ## Install
 
 ```bash
-brew install caladriuslogic/tap/zestful
+brew install zestfuldevelopment/tap/zestful
 ```
 
 ## Formulae
